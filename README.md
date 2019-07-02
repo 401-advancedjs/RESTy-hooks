@@ -6,9 +6,8 @@
 ### Author: Melissa Stock
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advancedjs/RESTy/pull/1)
-* [travis](https://www.travis-ci.com/401-advancedjs/RESTy)
-* [front-end](https://priceless-volhard-0ff52c.netlify.com/)
+* [submission PR](https://github.com/401-advancedjs/RESTy-hooks/pull/1)
+* [travis](https://www.travis-ci.com/401-advancedjs/RESTy-hooks)
 
 ### Modules
 #### `app.js`
